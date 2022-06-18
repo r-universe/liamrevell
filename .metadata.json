@@ -1,0 +1,10 @@
+[
+  {
+    "package": "learnPopGen",
+    "oncran": true
+  },
+  {
+    "package": "phytools",
+    "oncran": true
+  }
+]
